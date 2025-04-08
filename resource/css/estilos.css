@@ -1,0 +1,159 @@
+.titulo{
+    /*font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;*/
+    font-size: 50px;
+    font-weight: 400;
+}
+  
+.subtitulo{
+    font-size: 24px;
+    font-weight: 400;
+}
+  
+.ruta{
+    font-size: 15px;
+    font-weight: 400;
+    color: #7b7b7b;
+    text-transform: uppercase;
+    text-align: right;
+    padding-top:20px;
+  }
+  
+  
+.margenes{
+    margin-left:30px;
+    margin-right:30px;
+}
+.Parrafo{
+    font-size: 17px;
+    font-weight: 400;
+    /* padding-right: 50px; */
+    color: #7b7b7b;
+    text-align: justify;
+  }
+  
+  .ColorGris{
+    color: #7b7b7b;
+  }
+  
+  /*////////////////////Aspirantes///////////////////*/
+  
+  .ColorAspirante{
+    color: #6b1543;
+  }
+  .LineaAspirante{
+      border-bottom: 4px solid #ccc; 
+      border-bottom-color:#6b1543;
+      margin-left: 2%; 
+      width: 96%;
+  }
+  .ColorBotonAspirante{
+    background-color:#6b1543 !important;
+  }
+  
+  /*////////////////////Estudiante///////////////////*/
+  
+  .ColorEstudiante{
+    color: #c1803e;
+  }
+  .LineaEstudiante{
+      border-bottom: 4px solid #ccc; 
+      border-bottom-color:#c1803e;
+      margin-left: 2%; 
+      width: 96%;
+  }
+  .ColorBotonEstudiante{
+      background-color:#c1803e !important;
+  }
+  
+  /*////////////////////Egresados///////////////////*/
+  
+  .ColorEgresado{
+    color: #20babc;
+  }
+  .LineaEgresado{
+      border-bottom: 4px solid #ccc; 
+      border-bottom-color:#20babc;
+      margin-left: 2%; 
+      width: 96%;
+  }
+  .ColorBotonEgresado{
+    background-color:#20babc !important;
+  }
+  
+  /*////////////////////Empresario///////////////////*/
+  
+  .ColorEmpresario{
+    color: #571f1e;
+  }
+  .LineaEmpresario{
+      border-bottom: 4px solid #ccc; 
+      border-bottom-color:#571f1e;
+      margin-left: 2%; 
+      width: 96%;
+  }
+  .ColorBotonEmpresario{
+    background-color:#571f1e !important;
+  }
+  
+  /*////////////////////Administrativo///////////////////*/
+  
+  .ColorAdministrativo{
+    color: #50174e;
+  }
+  .LineaAdministrativo{
+      border-bottom: 4px solid #ccc; 
+      border-bottom-color:#50174e;
+      margin-left: 2%; 
+      width: 96%;
+  }
+  .ColorBotonAdministrativo{
+      background-color:#50174e !important;
+  }
+  
+  /*////////////////////Docentes//////////////////////*/
+  .ColorDocente{
+    color: #1b4610;
+  }
+  .LineaDocente{
+      border-bottom: 4px solid #ccc; 
+      border-bottom-color:#1b4610;
+      margin-left: 2%; 
+      width: 96%;
+  }
+  .ColorBotonDocente{
+      background-color:#1b4610 !important;
+  }
+  
+  /*////////////////////Libre//////////////////////*/
+  .ColorLibre{
+    color: #00977f;
+  }
+  .LineaLibre{
+      border-bottom: 4px solid #ccc; 
+      border-bottom-color:#00977f;
+      margin-left: 2%; 
+      width: 96%;
+  }
+  .ColorBotonLibre{
+      background-color:#00977f !important;
+  }
+  
+  /*//////////////////////////////////////////*/
+  
+  .ColorNeutral{
+      color: #555;
+    }
+    .LineaNeutral{
+        border-bottom: 4px solid #ccc; 
+        border-bottom-color:#555;
+        margin-left: 2%; 
+        width: 96%;
+    }
+    .ColorBotonNeutral{
+        background-color:#555 !important;
+    }
+  
+    /* ////////////////////////////// */
+  
